@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="style.css">
 <style>
 #test1 {
-#2C1A51
+
 }
 
 #test2 {
@@ -22,28 +22,26 @@
 }
 
 #swatch1 {
- background-color: #007A8A;
+
 }
 
 #swatch2 {
- background-color: #0B5274;
+
 }
 
 #swatch3 {
- background-color: #2C1A51;
+
 }
 
 #swatch4 {
- background-color: #1B0F29;
+
 }
 
 #swatch5 {
- background-color: #280e43;
+
 }
 
 #exercise3 {
-background-image: url("star.png")
-
 
 }
 </style>
@@ -56,16 +54,16 @@ background-image: url("star.png")
 </div>
 <div id="exercise1" class="exercise">
 	<div id="test1">
-	#007A8A
+	#FF0000
 	</div>
 	<div id="test2">
-	#0B5274
+	#00FF00
 	</div>
 	<div id="test3">
-	#2C1A51
+	#0000FF
 	</div>
         <div id="test4">
-	#1B0F29
+	#9900CC
 	</div>
 </div>
 <div id="instructions2" class="instructions">
